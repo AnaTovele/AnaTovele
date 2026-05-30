@@ -39,8 +39,8 @@ Gosto de transformar ideias em produtos reais, trabalhar em equipa e aprender co
 | Projecto | Descrição | Tecnologias | Link |
 |---|---|---|---|
 | **SuelCakes** | Site para pastelaria — produtos, encomendas e contacto | HTML, CSS, JS | [Ver](https://anatovele.github.io/SuelCakes/) |
-| **NaturalLife Shelsia** | Site institucional para negócio de produtos naturais | HTML, CSS, JS | [Ver repositório](https://github.com/AnaTovele/naturallife-shelsia) |
-| **Fashion Look** | Site de moda com catálogo de produtos | HTML, CSS, JS | [Ver repositório](https://github.com/AnaTovele/fashionlook) |
+| **NaturalLife** | Site para negócio de produtos naturais | HTML, CSS, JS | [Ver repositório](https://github.com/AnaTovele/naturallife) |
+| **Fashionlux** | Site de moda com catálogo de produtos | HTML, CSS, JS | [Ver repositório](https://github.com/AnaTovele/fashionlux) |
 
 ---
 
