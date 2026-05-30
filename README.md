@@ -1,4 +1,4 @@
-# Olá, eu sou a Ana Rafica Tovele 👋
+# Olá, eu sou a Ana Tovele 👋
 
 Desenvolvedora Full Stack de Moçambique 🇲🇿, apaixonada por construir sistemas completos — do frontend ao backend, da base de dados à infraestrutura.
 
