@@ -66,4 +66,4 @@ Gosto de transformar ideias em produtos reais, trabalhar em equipa e aprender co
 
 ---
 
-> *"Não espero estar pronta para aparecer. Apareço e fico pronta aparecendo."*
+> *"Don't wait until you're good to start. Start until you're good."*
